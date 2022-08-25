@@ -1,0 +1,22 @@
+{
+  "name": "exercicio",
+  "version": "0.0.1",
+  "description": "exercicio para npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marialuisavarela/develas-tecprogramacaoNode.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Malu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marialuisavarela/develas-tecprogramacaoNode/issues"
+  },
+  "homepage": "https://github.com/marialuisavarela/develas-tecprogramacaoNode#readme"
+}
